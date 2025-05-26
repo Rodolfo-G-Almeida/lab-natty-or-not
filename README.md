@@ -13,5 +13,5 @@ D-ID
 Escolhendo um avatar um tipo de voz e o texto a ser falado.
 
 ## 🚀 Resultados
-(https://studio.d-id.com/share?id=73836d72a4387369682ef9b917620b7a&utm_source=copy)
+https://studio.d-id.com/share?id=73836d72a4387369682ef9b917620b7a&utm_source=copy
 
