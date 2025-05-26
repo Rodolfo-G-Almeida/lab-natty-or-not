@@ -1,32 +1,17 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Fake Natty?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de conteúdo feito 100% com inteligencia artificial
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escolhendo um avatar um tipo de voz e o texto a ser falado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+(https://studio.d-id.com/share?id=73836d72a4387369682ef9b917620b7a&utm_source=copy)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
